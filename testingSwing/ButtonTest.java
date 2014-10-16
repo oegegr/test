@@ -1,4 +1,3 @@
-package testingSwing;
 import java.awt.*;
 import java.awt.event.*;
 import java.util.prefs.BackingStoreException;
